@@ -1,5 +1,6 @@
 body {
 	background: lightgreen;
+	font-family: fantasy;
 }
 
 .photo {
@@ -8,6 +9,16 @@ body {
 }
 
 #title, .subtitle, .post_title{
+	color: darkgreen;
+}
+
+#title {
+	font-size: 40px;
+	text-transform: uppercase;
+}
+
+a {
+	text-decoration: underline; /* decoração do link */ 
 	color: darkgreen;
 }
 
@@ -21,7 +32,7 @@ body {
 .post {
 	background: palegreen;
 	padding: 20px;
-	border: 3px dotted darkgreen;
+	border: 3px dotted darkgreen; /*margem com bolinhas*/
 	margin-bottom: 20px;
 	border-radius: 25px;
 }
@@ -29,6 +40,7 @@ body {
 .post_content {
 	margin: 0;
 	margin-bottom: 15px;
+	text-transform: capitalize; /*primeira letra da palavra maiúscula*/
 }
 
 .post_image {
