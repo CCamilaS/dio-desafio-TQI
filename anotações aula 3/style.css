@@ -1,6 +1,8 @@
 body {
 	background: lightgreen;
 	font-family: fantasy;
+	max-width: 900px; /*delimita o conteúdo da página*/
+	margin: auto; /*esse valor cria uma margem que se adequa ao tamanho da tela*/
 }
 
 .photo {
@@ -41,6 +43,7 @@ a {
 	margin: 0;
 	margin-bottom: 15px;
 	text-transform: capitalize; /*primeira letra da palavra maiúscula*/
+	text-align: center; /*esse serve para alinha o texto*/
 }
 
 .post_image {
@@ -55,3 +58,4 @@ a {
 .contacts_list li a {
 	color: darkgreen;
 }
+
