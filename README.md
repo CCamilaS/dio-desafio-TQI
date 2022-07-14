@@ -4,7 +4,11 @@
 
 #### Links Úteis:
 
-- [Portugol Webstudio](https://portugol-webstudio.cubos.io/)
+- [Portugol Webstudio](https://portugol-webstudio.cubos.io/) 
+_use esse site para estudar pseudo algorítmo_
 
 - [Tiny Png Aula 3](https://tinypng.com/) 
 _use esse site para comprimir suas pngs, e jpgs e economizar espaço._
+
+- [MDN](https://developer.mozilla.org/pt-BR/)
+_use esse site para estudar mais sobre css_
