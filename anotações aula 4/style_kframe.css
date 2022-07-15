@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&display=swap');
+
+body {
+	margin: 0;
+	padding: 0;
+	color: white;
+	font-family: 'Arvo', sans-serif;
+}
+
+.wrapper {
+	height: 100vh;
+	width: 100vw;
+	background: linear-gradient(-45deg, palegreen, darkgreen, palegreen);
+	background-size: 400% 400%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	animation: name duration timing-function delay iteration-count direction fill-mode;
+}
+
+h1 {
+	text-transform: uppercase;
+	letter-spacing: 4px;
+}
+
+h2 {
+	text-transform: uppercase;
+	letter-spacing: 4px;
+}
+
+.social-media {
+	margin-top: 1ren;
+	display: flex;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	padding: 1ren 4ren;
+	border: 1px solid white;
+	min-width: 4rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: 0.5s cubic-bezier(0.55, 0.25, 0.675, 0.97);
+}
+
+a:hover {
+	color: darkgreen;
+	background-color: white;
+}
+
