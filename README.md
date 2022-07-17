@@ -2,7 +2,7 @@
 
 ### Desafio de projeto sobre GIT/GitHub (project chalenge  GIT/GitHub)
 
-#### Links Úteis:
+#### Links Úteis :sparkles:
 
 - [Portugol Webstudio](https://portugol-webstudio.cubos.io/) 
 _use esse site para estudar pseudo algorítmo_
